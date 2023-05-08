@@ -1,0 +1,28 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Caves and Chimeras",
+            "maker": "Maker 1",
+            "number_of_players": 2,
+            "skill_level": 1,
+            "game_type": 1,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Guild wars 2",
+            "maker": "Maker 2",
+            "number_of_players": 4,
+            "skill_level": 3,
+            "game_type": 2,
+            "gamer": 1
+        }
+    }
+
+]
+
