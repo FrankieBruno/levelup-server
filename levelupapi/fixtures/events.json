@@ -8,7 +8,7 @@
             "time": "14:00:00",
             "gamer": 1,
             "game": 1,
-            "attendees": 4
+            "attendees": [1]
         }
     },
     {
@@ -18,9 +18,9 @@
             "description": "World of Warcraft Tournament",
             "date": "2023-05-09",
             "time": "15:00:00",
-            "gamer": 2,
+            "gamer": 1,
             "game": 2,
-            "attendees": 6
+            "attendees": [1]
         }
     }
 ]
