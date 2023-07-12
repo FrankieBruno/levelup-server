@@ -3,6 +3,9 @@
         "--load-plugins=pylint_django",
         "--django-settings-module=levelup.settings",
     ],
+    "cSpell.words": [
+        "levelupapi"
+    ],
 }
 
 
